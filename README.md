@@ -34,6 +34,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wioenena-q&repo=JS-WioDB&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="WioDB" />
 </a>
 
+![](https://img.shields.io/npm/dt/wio.db.svg?color=%2351FC0&maxAge=3600) 
+
 # contact
 - [Instagram](https://instagram.com/wioenena.q)
 - [Twitter](https://twitter.com/wioenena)
