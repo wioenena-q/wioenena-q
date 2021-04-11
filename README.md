@@ -6,7 +6,7 @@
 
 
 
-## 🔧 Technologies & Tools
+## 🔧 Languages & Tools
 - ![](https://img.shields.io/badge/OS-Linux-black?style=flat-square&logo=linux&logoColor=black)
 - ![](https://img.shields.io/badge/Editor-VHEditor-brightgreen?style=flat-square&logo=visual-studio-code&logoColor=brightgreen)
 - ![](https://img.shields.io/badge/Code-JavaScript-black?style=flat-square&logo=javascript&logoColor=cyan)
