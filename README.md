@@ -4,7 +4,30 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=wioenena-q.wioenena-q)
 
+```js
+function sleep(time) {
+  return new Promise((r) => {
+    setTimeout(r);
+  },time);
+}
 
+function eat() {
+  console.log("Eating...");
+}
+
+function code() {
+  console.log("Enjoyable");
+}
+
+async function day() {
+  eat();
+  code();
+  await sleep(43200000);
+  day();
+}
+
+day();
+```
 
 ## 🔧 Languages & Tools
 - ![](https://img.shields.io/badge/OS-Linux-black?style=flat-square&logo=linux&logoColor=black)
