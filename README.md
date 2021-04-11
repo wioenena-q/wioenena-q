@@ -34,11 +34,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wioenena-q&repo=JS-WioDB&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="WioDB" />
 </a>
 
-### Now Playing 🎧
-
-[![Spotify](https://spotify-recently-played-6w8ea7g4e.vercel.app/api/spotify)](https://open.spotify.com/user/31xvschpvy2jkrnfvo54ej22a5na)
-<br/>
-
 # contact
 - [Instagram](https://instagram.com/wioenena.q)
 - [Twitter](https://twitter.com/wioenena)
