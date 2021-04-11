@@ -9,13 +9,7 @@ namespace me {
     public class wioenena
     {
         public int level = 18;
-        public string[5] languages = new String[] {
-            "JavaScript",
-            "TypeScript",
-            "Python",
-            "Java",
-            "CS"
-        }
+        public string[5] languages = new String[] {"JavaScript","TypeScript","Python","Java","CS"};
     }
 }
 ```
