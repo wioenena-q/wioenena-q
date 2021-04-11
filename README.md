@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://resimyukle.imageupload.workers.dev/VPQP48JA_wioenena.gif" alt="wioenena"/>
+    <img src="https://raw.githubusercontent.com/wioenena-q/wioenena-q/wioenena/wioenena.gif" alt="wioenena"/>
 </h1>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=wioenena-q.wioenena-q)
