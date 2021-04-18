@@ -7,8 +7,8 @@
 ```js
 function sleep(time) {
   return new Promise((r) => {
-    setTimeout(r);
-  },time);
+    setTimeout(r,time);
+  });
 }
 
 function eat() {
