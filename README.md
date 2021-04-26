@@ -52,8 +52,8 @@ day();
 
 ## 🗂️ Highlight Projects
 
-<a href="https://github.com/wioenena-q/JS-WioDB">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wioenena-q&repo=JS-WioDB&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="WioDB" />
+<a href="https://github.com/wioenena-q/wio.db">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wioenena-q&repo=wio.db&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="wio.db" />
 </a>
 
 
